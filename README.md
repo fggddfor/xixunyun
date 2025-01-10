@@ -20,7 +20,7 @@
 
 - Fork本项目后进入自己的仓库，点击你的仓库右上角的 Settings，找到 Secrets
     <details>
-   <summary> 如何Fork本项目？</summary>
+   <summary> 如何Fork本项目？？</summary>
    注册或登陆您的github账号，访问<https://github.com/kuilei0926/xixunyun>进入github的本项目页面中，点击右上角的Fork按钮，如图所示。
    
    ![image](https://raw.githubusercontent.com/kuilei0926/xixunyun/main/img/QQ%E6%88%AA%E5%9B%BE20201222092433.png)
